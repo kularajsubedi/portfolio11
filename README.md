@@ -1,19 +1,6 @@
 
 <h1 align="center">Hello and welcome from Kularaj Subedi</h1>
 
-
-<p align="center">
-  <a href="https://discord.gg/z8wNYzb"><img src="https://img.shields.io/discord/722225264733716590?label=Join%20Discord&style=social" alt="Discord"></a>
-  <a href="https://github.com/HugoBlox/theme-academic-cv"><img src="https://img.shields.io/github/stars/HugoBlox/theme-academic-cv?label=Star%20Academic%20CV&style=social" alt="GitHub Stars"></a>
-</p>
-
----
-
-
-
-
-
-
 ## Notebook → Posts and Slides
 
 - Publish your actual `.ipynb` as beautiful long-form posts — code, outputs, and narrative kept intact.
