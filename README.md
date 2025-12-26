@@ -1,11 +1,5 @@
 
-<h1 align="center">Hello and welcome from Kularaj Subedip</h1>
-
-<p align="center">
-  <strong>Your unfair advantage in academia.</strong><br/>
-  Stop sending PDFs into the void. Build a living portfolio that boosts citations and lands offers.<br/>
-  Trusted by 250,000+ researchers at <strong>MIT, Stanford, and Google</strong>.
-</p>
+<h1 align="center">Hello and welcome from Kularaj Subedi</h1>
 
 <p align="center">
   <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>🚀 Launch Free (60s)</b></a>
